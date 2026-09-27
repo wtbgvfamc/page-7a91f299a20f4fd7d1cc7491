@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://c.vszsa.cn/sitemap.xml
